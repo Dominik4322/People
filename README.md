@@ -1,3 +1,3 @@
-Dominik Słomka
-Adrian Uchacz
-Łukasz Woś
+Dominik Słomka,
+Adrian Uchacz,
+Łukasz Woś,
